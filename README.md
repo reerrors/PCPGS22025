@@ -1,5 +1,6 @@
-# CLI de Análise de Soft Skills
 
+# CLI de Análise de Soft Skills
+André Eduardo Martins - RM:563297
 Este projeto é uma ferramenta de linha de comando (CLI) desenvolvida em **Python** que realiza uma autoavaliação de competências comportamentais (Soft Skills). O sistema coleta inputs do usuário, processa os dados utilizando regras de negócio predefinidas e gera um relatório com feedbacks personalizados e um direcionamento de carreira.
 
 ## Propósito
@@ -56,5 +57,5 @@ Motor de decisão do sistema.
 
         gerar_norte_carreira(): Analisa o conjunto de skills fortes para sugerir um caminho profissional (ex: Gestão, Inovação, Especialista).
         
-## Como usar
-
+## Como usar(vídeo)
+https://youtu.be/sitigcQOQ2Q
